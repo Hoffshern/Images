@@ -1188,13 +1188,13 @@ svg[name=Nitro] path {
 	border-color: var(--DangerColor)
 }
 
-/* .theme-dark .divider-3gKybi:not(.dividerRed-MKoLlr) .dividerContent-2L12VI {
+.theme-dark .divider-3gKybi:not(.dividerRed-MKoLlr) .dividerContent-2L12VI {
 	color: var(--ChatTextColor)
 }
 
 .theme-dark .divider-3gKybi:not(.dividerRed-MKoLlr) .dividerContent-2L12VI:after,.theme-dark .divider-3gKybi:not(.dividerRed-MKoLlr) .dividerContent-2L12VI:before {
 	border-color: var(--ChatTextColor)
-} */
+}
 
 .typing-2GQL18 {
 	top: -22px!important;
